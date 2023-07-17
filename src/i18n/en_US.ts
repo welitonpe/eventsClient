@@ -1,0 +1,15 @@
+export default {
+  "confirm-password": "Confirm password",
+  "create-account": "Criar Conta",
+  "family-name": "Family name",
+  "log-in": "Log in",
+  "sign-up": "Sign Up",
+  birthday: "Birthday",
+  cancel: "Cancel",
+  email: "Email",
+  graduations: "Graduations",
+  name: "Name",
+  password: "Password",
+  submit: "Submit",
+  "manage-your-busines": "Manage your busines",
+};

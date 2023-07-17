@@ -1,0 +1,15 @@
+export default {
+  birthday: "Data de nascimento",
+  "confirm-password": "Conrimação de senha",
+  "create-account": "Criar Conta",
+  "family-name": "Sobre Nome",
+  "log-in": "Entrar",
+  "sign-up": "Cadastrar",
+  cancel: "Cancelar",
+  email: "Email",
+  graduations: "Formaturas",
+  name: "Nome",
+  password: "Senha",
+  submit: "Enviar",
+  "manage-your-busines": "Gerencie seus negocios",
+};
